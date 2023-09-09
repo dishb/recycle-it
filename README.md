@@ -4,6 +4,13 @@ Helping you help the planet. Recycling made easy.
 ## About:
 This project was made during a 24 hour hackathon.
 
+## Run:
+To run `recycle-it`, you'll want to follow the instructions listed below in the [Contributing](#contributing) section.
+Then, run `recycle_it.py`:
+| macOS/Linux | Windows |
+| --- | --- |
+| `python3 ./recycle_it.py` | `python .\recycle_it.py` |
+
 ## Contributing:
 To get started with contributing to `recycle-it`, follow this guide.
 
