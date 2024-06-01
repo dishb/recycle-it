@@ -22,7 +22,12 @@ from os.path import exists
 
 import customtkinter as ctk
 
-from core import *
+from core.const import PADX, PADY, STICKY, SCRIPT_PATH
+from core.popup import APIKeyDialog
+from core.name import Name
+from core.camera import CameraView, CaptureButton
+from core.category import CategoryLabel
+from core.preferences import Preferences
 
 class App(ctk.CTk):
     def __init__(self,
